@@ -1,0 +1,8 @@
+# Sublime
+*.sublime-project
+*.sublime-workspace
+
+# Folders
+env/
+datasets/
+.ipynb_checkpoints/
